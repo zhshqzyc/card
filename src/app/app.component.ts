@@ -12,5 +12,5 @@ import { CardComponent } from "./card/card.component";
 export class AppComponent {
   title = 'Card';
   subTitle = '--Demo';
-  iconClasses = '';
+  iconClasses = 'fa fa-star';
 }
